@@ -115,7 +115,7 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 - Smartphones led product category sales in 2019, 2020, and 2022, but dropped to 4th place in 2021, when Airtags topped the charts—selling nearly twice as much as the next best category.
 - Tablets and laptops consistently ranked 2nd and 3rd, with notable gains in laptop sales in 2021 and 2022.
 <div align="center" style="margin-top: -10px; margin-bottom: 10px;">
-  <img src="https://github.com/user-attachments/assets/0fb2ff90-ed45-4afa-b31c-bad9bb024233" width="30%">
+  <img src="https://github.com/user-attachments/assets/0fb2ff90-ed45-4afa-b31c-bad9bb024233" width="40%">
 </div>
 
 
@@ -127,18 +127,18 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 <div align="center" style="margin-top: -10px; margin-bottom: 10px;">
   <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
     <tr>
-      <td style="padding: 5px;">
+      <td style="border: 1px solid white; padding: 5px;">
         <img src="https://github.com/user-attachments/assets/4b45490a-f939-4161-bcfe-4c71ac6dbcdb" width="240px">
       </td>
-      <td style="padding: 5px;">
+      <td style="border: 1px solid white; padding: 5px;" >
         <img src="https://github.com/user-attachments/assets/78744168-e04c-4cd0-923d-83f5c418ebbd" width="240px">
       </td>
     </tr>
     <tr>
-      <td style="padding: 5px;">
+      <td style="border: 1px solid white; padding: 5px;">
         <img src="https://github.com/user-attachments/assets/244f439e-ee87-43e3-9546-fe355692685f" width="240px">
       </td>
-      <td style="padding: 5px;">
+      <td style="border: 1px solid white; padding: 5px;">
         <img src="https://github.com/user-attachments/assets/786f3b79-fb5a-4821-b893-deac6468bde9" width="240px">
       </td>
     </tr>
