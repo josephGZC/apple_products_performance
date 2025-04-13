@@ -39,7 +39,6 @@ Key findings reveal that while total quantity sold decreased, total revenue cont
 
 ## 3. Dataset Overview <a name="dataset-overview"></a>  
 <a href="#toc">[ back to contents ]</a>
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6199f61a-2cae-4980-ae78-baa1e3b2a00a" width="75%">
 </div>
@@ -81,10 +80,12 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
   <img src="https://github.com/user-attachments/assets/f5ef8923-e609-465e-baea-03e2b8330fed" width="75%">
 </div>
 
+
 - Only 2020 experienced a quarterly decline in quantity sold, likely due to global disruptions, while all other years showed stable or growing trends.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d91e5db1-5722-4290-8795-3bc800cc997e" width="75%">
 </div>
+
 
 - There is a positive correlation between total sales and quantity sold, although revenue growth in some years was driven more by premium pricing (e.g., iPhone 14) than sales volume.
 <table cellspacing="0" cellpadding="0">
@@ -115,6 +116,7 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
   <img src="https://github.com/user-attachments/assets/0fb2ff90-ed45-4afa-b31c-bad9bb024233" width="30%">
 </div>
 
+
 ### 5.3. Product-Specific Trends <a name="product-specific-trends"></a> <a href="#toc">[↑]</a>
 
 - iPhone 14 (2022) and iPhone Xs (2020) were top-performing models in their respective years.
@@ -138,6 +140,41 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
     </td>
   </tr>
 </table>
+
+
+<div align="center">
+  <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+    <tr>
+      <td style="padding: 5px;">
+        <img src="https://github.com/user-attachments/assets/4b45490a-f939-4161-bcfe-4c71ac6dbcdb" width="240px">
+      </td>
+      <td style="padding: 5px;">
+        <img src="https://github.com/user-attachments/assets/78744168-e04c-4cd0-923d-83f5c418ebbd" width="240px">
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px;">
+        <img src="https://github.com/user-attachments/assets/244f439e-ee87-43e3-9546-fe355692685f" width="240px">
+      </td>
+      <td style="padding: 5px;">
+        <img src="https://github.com/user-attachments/assets/786f3b79-fb5a-4821-b893-deac6468bde9" width="240px">
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/4b45490a-f939-4161-bcfe-4c71ac6dbcdb" width="200px"></td>
+      <td><img src="https://github.com/user-attachments/assets/78744168-e04c-4cd0-923d-83f5c418ebbd" width="200px"></td>
+      <td><img src="https://github.com/user-attachments/assets/244f439e-ee87-43e3-9546-fe355692685f" width="200px"></td>
+      <td><img src="https://github.com/user-attachments/assets/786f3b79-fb5a-4821-b893-deac6468bde9" width="200px"></td>
+    </tr>
+  </table>
+</div>
 
 
 ### 5.4. Geographic Breakdown <a name="geographic-breakdown"></a> <a href="#toc">[↑]</a>
