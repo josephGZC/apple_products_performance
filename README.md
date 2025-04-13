@@ -82,13 +82,13 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 
 
 - Only 2020 experienced a quarterly decline in quantity sold, likely due to global disruptions, while all other years showed stable or growing trends.
-<div align="center">
+<div align="center" style="margin-top: -10px; margin-bottom: 10px;">
   <img src="https://github.com/user-attachments/assets/d91e5db1-5722-4290-8795-3bc800cc997e" width="75%">
 </div>
 
 
 - There is a positive correlation between total sales and quantity sold, although revenue growth in some years was driven more by premium pricing (e.g., iPhone 14) than sales volume.
-<div style="margin-top: 20px; margin-bottom: 20px;">
+<div style="margin-top: 10px; margin-bottom: 10px;">
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 1px solid white; padding: 0px 5px 2px 0px;">
