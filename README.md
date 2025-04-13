@@ -77,19 +77,16 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 
 - Total quantity sold decreased from the previous year, yet total sales increased, suggesting a shift toward higher-priced products.
 - In 2021 and 2022, the number of orders matched the quantity sold, indicating that most transactions involved single-item purchases.
-  
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f5ef8923-e609-465e-baea-03e2b8330fed" width="75%">
 </div>
 
 - Only 2020 experienced a quarterly decline in quantity sold, likely due to global disruptions, while all other years showed stable or growing trends.
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d91e5db1-5722-4290-8795-3bc800cc997e" width="75%">
 </div>
 
 - There is a positive correlation between total sales and quantity sold, although revenue growth in some years was driven more by premium pricing (e.g., iPhone 14) than sales volume.
-
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 1px solid white; padding: 0px 5px 2px 0px;">
@@ -114,12 +111,34 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 
 - Smartphones led product category sales in 2019, 2020, and 2022, but dropped to 4th place in 2021, when Airtags topped the charts—selling nearly twice as much as the next best category.
 - Tablets and laptops consistently ranked 2nd and 3rd, with notable gains in laptop sales in 2021 and 2022.
-- For tablets, the iPad 6th Gen (2020) holds the record at 15,000 units sold, followed by the iPad Pro (M2, 11-inch) with 10,000 units in 2022, still below the 2020 peak.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0fb2ff90-ed45-4afa-b31c-bad9bb024233" width="75%">
+</div>
 
 ### 5.3. Product-Specific Trends <a name="product-specific-trends"></a> <a href="#toc">[↑]</a>
 
 - iPhone 14 (2022) and iPhone Xs (2020) were top-performing models in their respective years.
 - Airtags, which dominated in 2021, saw a sharp drop in 2022, suggesting market saturation or a short-lived demand cycle.
+- For tablets, the iPad 6th Gen (2020) holds the record at 15,000 units sold, followed by the iPad Pro (M2, 11-inch) with 10,000 units in 2022, still below the 2020 peak.
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 1px solid white; padding: 0px 5px 2px 0px;">
+      <img src="https://github.com/user-attachments/assets/4b45490a-f939-4161-bcfe-4c71ac6dbcdb" width="100%">
+    </td>
+    <td style="border: 1px solid white; padding: 0px 0px 2px 5px;">
+      <img src="https://github.com/user-attachments/assets/78744168-e04c-4cd0-923d-83f5c418ebbd" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid white; padding: 2px 5px 0px 0px;">
+      <img src="https://github.com/user-attachments/assets/244f439e-ee87-43e3-9546-fe355692685f" width="100%">
+    </td>
+    <td style="border: 1px solid white; padding: 2px 0px 0px 5px;">
+      <img src="https://github.com/user-attachments/assets/786f3b79-fb5a-4821-b893-deac6468bde9" width="100%">
+    </td>
+  </tr>
+</table>
+
 
 ### 5.4. Geographic Breakdown <a name="geographic-breakdown"></a> <a href="#toc">[↑]</a>
 
