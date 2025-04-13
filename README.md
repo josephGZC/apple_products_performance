@@ -76,7 +76,7 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 
 - Total quantity sold decreased from the previous year, yet total sales increased, suggesting a shift toward higher-priced products.
 - In 2021 and 2022, the number of orders matched the quantity sold, indicating that most transactions involved single-item purchases.
-<div align="center" style="margin-top: -10px;">
+<div align="center" style="margin-top: -10px; margin-bottom: 10px;">
   <img src="https://github.com/user-attachments/assets/f5ef8923-e609-465e-baea-03e2b8330fed" width="75%">
 </div>
 
