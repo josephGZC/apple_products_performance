@@ -13,6 +13,7 @@
 [1. Project Background](#project-background) <br>
 [2. Executive Summary](#executive-summary) <br>
 [3. Data Cleaning and Preprocessing](#data-cleaning) <br>
+
 [4. Insights Deep-Dive](#insights-deep-dive) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[4.1. Key Highlights](#key-highlights) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[4.2. Product Category Insights](#product-category-insights) <br>
@@ -57,6 +58,10 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 
 - Fields like `price` and `quantity` were originally stored as strings and were converted to `INT` using `CAST()` to ensure accurate aggregation and computation.
 - Cleaned versions of the data were stored as views (`products_modified`, `sales_modified`, and `warranty_modified`) for use in downstream analysis and dashboard integration.
+
+## 3. Dataset Overview <a name="dataset-overview"></a>  
+<a href="#toc">[ back to contents ]</a>
+
 
 ## 4. Insights Deep-Dive <a name="insights-deep-dive"></a>  
 <a href="#toc">[ back to contents ]</a>
