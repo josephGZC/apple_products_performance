@@ -112,7 +112,7 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 - Smartphones led product category sales in 2019, 2020, and 2022, but dropped to 4th place in 2021, when Airtags topped the charts—selling nearly twice as much as the next best category.
 - Tablets and laptops consistently ranked 2nd and 3rd, with notable gains in laptop sales in 2021 and 2022.
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0fb2ff90-ed45-4afa-b31c-bad9bb024233" width="50%">
+  <img src="https://github.com/user-attachments/assets/0fb2ff90-ed45-4afa-b31c-bad9bb024233" width="30%">
 </div>
 
 ### 5.3. Product-Specific Trends <a name="product-specific-trends"></a> <a href="#toc">[↑]</a>
@@ -123,18 +123,18 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 1px solid white; padding: 0px 5px 2px 0px;">
-      <img src="https://github.com/user-attachments/assets/4b45490a-f939-4161-bcfe-4c71ac6dbcdb" width="100%">
+      <img src="https://github.com/user-attachments/assets/4b45490a-f939-4161-bcfe-4c71ac6dbcdb" width="60%">
     </td>
     <td style="border: 1px solid white; padding: 0px 0px 2px 5px;">
-      <img src="https://github.com/user-attachments/assets/78744168-e04c-4cd0-923d-83f5c418ebbd" width="100%">
+      <img src="https://github.com/user-attachments/assets/78744168-e04c-4cd0-923d-83f5c418ebbd" width="60%">
     </td>
   </tr>
   <tr>
     <td style="border: 1px solid white; padding: 2px 5px 0px 0px;">
-      <img src="https://github.com/user-attachments/assets/244f439e-ee87-43e3-9546-fe355692685f" width="100%">
+      <img src="https://github.com/user-attachments/assets/244f439e-ee87-43e3-9546-fe355692685f" width="60%">
     </td>
     <td style="border: 1px solid white; padding: 2px 0px 0px 5px;">
-      <img src="https://github.com/user-attachments/assets/786f3b79-fb5a-4821-b893-deac6468bde9" width="100%">
+      <img src="https://github.com/user-attachments/assets/786f3b79-fb5a-4821-b893-deac6468bde9" width="60%">
     </td>
   </tr>
 </table>
