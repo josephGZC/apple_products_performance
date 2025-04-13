@@ -83,7 +83,6 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 </div>
 
 - Only 2020 experienced a quarterly decline in quantity sold, likely due to global disruptions, while all other years showed stable or growing trends.
-![image1](https://github.com/user-attachments/assets/d91e5db1-5722-4290-8795-3bc800cc997e)
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d91e5db1-5722-4290-8795-3bc800cc997e" width="75%">
