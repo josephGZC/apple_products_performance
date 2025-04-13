@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5e6f6738-c82d-4e66-92b8-b626eafaeaae" width="100%">
+  <img src="https://github.com/user-attachments/assets/d9d9308c-8421-4fd8-b460-5200d29014e3" width="100%">
 </div>
 
 > link to the dashboard →  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjZmMzJiYzItMmIyYS00ZWNjLTliNDUtYzQ0ZDdmZTg0ZTlhIiwidCI6ImJkMDNhNzM1LTJhYTMtNGNjYS05NzIyLTJhZTQ5MjlhYjNlYyIsImMiOjEwfQ%3D%3D" target="_blank">Power BI Report</a> <br>
