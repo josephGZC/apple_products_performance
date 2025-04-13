@@ -51,11 +51,9 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 
 ### Searching for Duplicate and Missing Values
 
-- To identify duplicates, the query grouped rows based on key identifiers (e.g., `product_id`, `sale_id`) using `HAVING COUNT(*) > 1`.  
-  ✅ No duplicate records were found in any of the tables.
+- To identify duplicates, the query grouped rows based on key identifiers (e.g., `product_id`, `sale_id`) using `HAVING COUNT(*) > 1`. No duplicate records were found in any of the tables.
 
-- Missing values were assessed using `COUNT(*) - COUNT(column_name)` for null checks and `LTRIM(RTRIM(column_name)) = ''` to identify blank but non-null entries.  
-  ✅ No missing or empty values were detected in essential fields.
+- Missing values were assessed using `COUNT(*) - COUNT(column_name)` for null checks and `LTRIM(RTRIM(column_name)) = ''` to identify blank but non-null entries. No missing or empty values were detected in essential fields.
 
 ### Data Standardization
 
