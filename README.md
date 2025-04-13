@@ -122,26 +122,6 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 - iPhone 14 (2022) and iPhone Xs (2020) were top-performing models in their respective years.
 - Airtags, which dominated in 2021, saw a sharp drop in 2022, suggesting market saturation or a short-lived demand cycle.
 - For tablets, the iPad 6th Gen (2020) holds the record at 15,000 units sold, followed by the iPad Pro (M2, 11-inch) with 10,000 units in 2022, still below the 2020 peak.
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: 1px solid white; padding: 0px 5px 2px 0px;">
-      <img src="https://github.com/user-attachments/assets/4b45490a-f939-4161-bcfe-4c71ac6dbcdb" width="60%">
-    </td>
-    <td style="border: 1px solid white; padding: 0px 0px 2px 5px;">
-      <img src="https://github.com/user-attachments/assets/78744168-e04c-4cd0-923d-83f5c418ebbd" width="60%">
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 2px 5px 0px 0px;">
-      <img src="https://github.com/user-attachments/assets/244f439e-ee87-43e3-9546-fe355692685f" width="60%">
-    </td>
-    <td style="border: 1px solid white; padding: 2px 0px 0px 5px;">
-      <img src="https://github.com/user-attachments/assets/786f3b79-fb5a-4821-b893-deac6468bde9" width="60%">
-    </td>
-  </tr>
-</table>
-
-
 <div align="center">
   <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
     <tr>
@@ -159,19 +139,6 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
       <td style="padding: 5px;">
         <img src="https://github.com/user-attachments/assets/786f3b79-fb5a-4821-b893-deac6468bde9" width="240px">
       </td>
-    </tr>
-  </table>
-</div>
-
-
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/4b45490a-f939-4161-bcfe-4c71ac6dbcdb" width="200px"></td>
-      <td><img src="https://github.com/user-attachments/assets/78744168-e04c-4cd0-923d-83f5c418ebbd" width="200px"></td>
-      <td><img src="https://github.com/user-attachments/assets/244f439e-ee87-43e3-9546-fe355692685f" width="200px"></td>
-      <td><img src="https://github.com/user-attachments/assets/786f3b79-fb5a-4821-b893-deac6468bde9" width="200px"></td>
     </tr>
   </table>
 </div>
