@@ -27,16 +27,12 @@
 
 This project analyzes Apple product sales data from 2019 to 2022, with the primary objective of understanding trends in quantity sold across time, product categories, and regions. Using SQL for data extraction and Power BI for dashboard development, the goal was to uncover patterns that inform strategic pricing, product focus, and regional marketing efforts.
 
----
-
 ## 2. Executive Summary <a name="executive-summary"></a>  
 <a href="#toc">[ back to contents ]</a>
 
 This report presents an analysis of Apple product sales over four years, focusing on quantity sold as the primary metric, while also exploring supporting sales and order data across time, products, and geographies.
 
 Key findings reveal that while total quantity sold decreased, total revenue continued to grow, driven largely by premium-priced models like the iPhone 14. Most orders involved single-item purchases, and product category performance shifted, with accessories like Airtags briefly outperforming smartphones. Geographically, the United States dominated sales, particularly in cities like Glenade, Brooklyn, and New York.
-
----
 
 ## 3. Data Cleaning and Preprocessing <a name="data-cleaning"></a>  
 <a href="#toc">[ back to contents ]</a>
@@ -62,41 +58,33 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 - Fields like `price` and `quantity` were originally stored as strings and were converted to `INT` using `CAST()` to ensure accurate aggregation and computation.
 - Cleaned versions of the data were stored as views (`products_modified`, `sales_modified`, and `warranty_modified`) for use in downstream analysis and dashboard integration.
 
----
-
 ## 4. Insights Deep-Dive <a name="insights-deep-dive"></a>  
 <a href="#toc">[ back to contents ]</a>
 
-### 4.1. Key Highlights <a name="key-highlights"></a>  
-<a href="#toc">[↑]</a>
+### 4.1. Key Highlights <a name="key-highlights"></a> <a href="#toc">[↑]</a>
 
 - Total quantity sold decreased from the previous year, yet total sales increased, suggesting a shift toward higher-priced products.
 - In 2021 and 2022, the number of orders matched the quantity sold, indicating that most transactions involved single-item purchases.
 - Only 2020 experienced a quarterly decline in quantity sold, likely due to global disruptions, while all other years showed stable or growing trends.
 - There is a positive correlation between total sales and quantity sold, although revenue growth in some years was driven more by premium pricing (e.g., iPhone 14) than sales volume.
 
-### 4.2. Product Category Insights <a name="product-category-insights"></a>  
-<a href="#toc">[↑]</a>
+### 4.2. Product Category Insights <a name="product-category-insights"></a> <a href="#toc">[↑]</a>
 
 - Smartphones led product category sales in 2019, 2020, and 2022, but dropped to 4th place in 2021, when Airtags topped the charts—selling nearly twice as much as the next best category.
 - Tablets and laptops consistently ranked 2nd and 3rd, with notable gains in laptop sales in 2021 and 2022.
 - For tablets, the iPad 6th Gen (2020) holds the record at 15,000 units sold, followed by the iPad Pro (M2, 11-inch) with 10,000 units in 2022, still below the 2020 peak.
 
-### 4.3. Product-Specific Trends <a name="product-specific-trends"></a>  
-<a href="#toc">[↑]</a>
+### 4.3. Product-Specific Trends <a name="product-specific-trends"></a> <a href="#toc">[↑]</a>
 
 - iPhone 14 (2022) and iPhone Xs (2020) were top-performing models in their respective years.
 - Airtags, which dominated in 2021, saw a sharp drop in 2022, suggesting market saturation or a short-lived demand cycle.
 
-### 4.4. Geographic Breakdown <a name="geographic-breakdown"></a>  
-<a href="#toc">[↑]</a>
+### 4.4. Geographic Breakdown <a name="geographic-breakdown"></a> <a href="#toc">[↑]</a>
 
 - The United States remained the #1 market across all years, followed by China, Germany, and France.
 - Within the U.S., the cities of Glenade, Brooklyn, and New York recorded the highest unit sales, indicating strong localized demand that could benefit from targeted promotions or supply focus.
 
----
-
-## 5. Recommendations <a name="recommendations"></a>  
+## 5. Recommendations <a name="recommendations"></a> 
 <a href="#toc">[ back to contents ]</a>
 
 - **Balance Premium Pricing with Demand Sensitivity**  
