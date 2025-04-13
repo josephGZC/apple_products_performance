@@ -150,7 +150,7 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 - Within the U.S., the cities of Glenade, Brooklyn, and New York recorded the highest unit sales, indicating strong localized demand that could benefit from targeted promotions or supply focus.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d4b437e7-f624-4713-be0d-03e85eb7cecf" width="75%">
+  <img src="https://github.com/user-attachments/assets/c753746d-089d-484d-aa12-3797ad581b17" width="90%">
 </div>
 
 ## 6. Recommendations <a name="recommendations"></a> 
