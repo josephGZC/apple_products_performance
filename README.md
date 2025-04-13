@@ -5,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/d9d9308c-8421-4fd8-b460-5200d29014e3" width="100%">
 </div>
 
-> link to the dashboard →  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjZmMzJiYzItMmIyYS00ZWNjLTliNDUtYzQ0ZDdmZTg0ZTlhIiwidCI6ImJkMDNhNzM1LTJhYTMtNGNjYS05NzIyLTJhZTQ5MjlhYjNlYyIsImMiOjEwfQ%3D%3D" target="_blank">Power BI Report</a> <br>
+> link to the dashboard →  <a href="https://app.powerbi.com/view?r=eyJrIjoiMGI2NDgyNjctZDBhOC00MTJmLWI3MTktZDg4ZGZkZWZkZjYzIiwidCI6ImJkMDNhNzM1LTJhYTMtNGNjYS05NzIyLTJhZTQ5MjlhYjNlYyIsImMiOjEwfQ%3D%3D" target="_blank">Power BI Report</a> <br>
 > link to the code →  <a href="https://github.com/josephGZC/apple_products_performance/blob/cfc2ff89de6ba1caa0073696678f66ea729d8bb1/apple_project.sql" target="_blank"> SQL Data Cleaning and Exploratory Analysis</a>
 
 ## Table of Contents <a name="toc"></a>
