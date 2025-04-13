@@ -88,6 +88,7 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 
 
 - There is a positive correlation between total sales and quantity sold, although revenue growth in some years was driven more by premium pricing (e.g., iPhone 14) than sales volume.
+<div style="margin-top: 20px; margin-bottom: 20px;">
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 1px solid white; padding: 0px 5px 2px 0px;">
@@ -106,13 +107,14 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
     </td>
   </tr>
 </table>
+</div>
 
 
 ### 5.2. Product Category Insights <a name="product-category-insights"></a> <a href="#toc">[↑]</a>
 
 - Smartphones led product category sales in 2019, 2020, and 2022, but dropped to 4th place in 2021, when Airtags topped the charts—selling nearly twice as much as the next best category.
 - Tablets and laptops consistently ranked 2nd and 3rd, with notable gains in laptop sales in 2021 and 2022.
-<div align="center">
+<div align="center" style="margin-top: -10px; margin-bottom: 10px;">
   <img src="https://github.com/user-attachments/assets/0fb2ff90-ed45-4afa-b31c-bad9bb024233" width="30%">
 </div>
 
@@ -122,7 +124,7 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 - iPhone 14 (2022) and iPhone Xs (2020) were top-performing models in their respective years.
 - Airtags, which dominated in 2021, saw a sharp drop in 2022, suggesting market saturation or a short-lived demand cycle.
 - For tablets, the iPad 6th Gen (2020) holds the record at 15,000 units sold, followed by the iPad Pro (M2, 11-inch) with 10,000 units in 2022, still below the 2020 peak.
-<div align="center">
+<div align="center" style="margin-top: -10px; margin-bottom: 10px;">
   <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
     <tr>
       <td style="padding: 5px;">
@@ -148,7 +150,7 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 
 - The United States remained the #1 market across all years, followed by China, Germany, and France.
 - Within the U.S., the cities of Glenade, Brooklyn, and New York recorded the highest unit sales, indicating strong localized demand that could benefit from targeted promotions or supply focus.
-<div align="center">
+<div align="center" style="margin-top: -10px; margin-bottom: 10px;">
   <img src="https://github.com/user-attachments/assets/c753746d-089d-484d-aa12-3797ad581b17" width="90%">
 </div>
 
