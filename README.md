@@ -28,6 +28,7 @@
 
 This project analyzes Apple product sales data from 2019 to 2022, with the primary objective of understanding trends in quantity sold across time, product categories, and regions. Using SQL for data extraction and Power BI for dashboard development, the goal was to uncover patterns that inform strategic pricing, product focus, and regional marketing efforts.
 
+
 ## 2. Executive Summary <a name="executive-summary"></a>  
 <a href="#toc">[ back to contents ]</a>
 
@@ -35,12 +36,14 @@ This report presents an analysis of Apple product sales over four years, focusin
 
 Key findings reveal that while total quantity sold decreased, total revenue continued to grow, driven largely by premium-priced models like the iPhone 14. Most orders involved single-item purchases, and product category performance shifted, with accessories like Airtags briefly outperforming smartphones. Geographically, the United States dominated sales, particularly in cities like Glenade, Brooklyn, and New York.
 
+
 ## 3. Dataset Overview <a name="dataset-overview"></a>  
 <a href="#toc">[ back to contents ]</a>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6199f61a-2cae-4980-ae78-baa1e3b2a00a" width="75%">
 </div>
+
 
 ## 4. Data Cleaning and Preprocessing <a name="data-cleaning"></a>  
 <a href="#toc">[ back to contents ]</a>
@@ -67,8 +70,6 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 - Cleaned versions of the data were stored as views (`products_modified`, `sales_modified`, and `warranty_modified`) for use in downstream analysis and dashboard integration.
 
 
-
-
 ## 5. Insights Deep-Dive <a name="insights-deep-dive"></a>  
 <a href="#toc">[ back to contents ]</a>
 
@@ -76,8 +77,39 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 
 - Total quantity sold decreased from the previous year, yet total sales increased, suggesting a shift toward higher-priced products.
 - In 2021 and 2022, the number of orders matched the quantity sold, indicating that most transactions involved single-item purchases.
+  
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f5ef8923-e609-465e-baea-03e2b8330fed" width="75%">
+</div>
+
 - Only 2020 experienced a quarterly decline in quantity sold, likely due to global disruptions, while all other years showed stable or growing trends.
+![image1](https://github.com/user-attachments/assets/d91e5db1-5722-4290-8795-3bc800cc997e)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d91e5db1-5722-4290-8795-3bc800cc997e" width="75%">
+</div>
+
 - There is a positive correlation between total sales and quantity sold, although revenue growth in some years was driven more by premium pricing (e.g., iPhone 14) than sales volume.
+
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 1px solid white; padding: 0px 5px 2px 0px;">
+      <img src="https://github.com/user-attachments/assets/c4cb12df-e9dc-4996-8061-f4fb9ff7ed67" width="100%">
+    </td>
+    <td style="border: 1px solid white; padding: 0px 0px 2px 5px;">
+      <img src="https://github.com/user-attachments/assets/3baf3a15-189f-4ce5-ac3d-4374f6ff2da4" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid white; padding: 2px 5px 0px 0px;">
+      <img src="https://github.com/user-attachments/assets/6511503b-d29d-4686-82e5-163a67388f7b" width="100%">
+    </td>
+    <td style="border: 1px solid white; padding: 2px 0px 0px 5px;">
+      <img src="https://github.com/user-attachments/assets/9fdfe327-de16-4e82-842a-88e9ce456073" width="100%">
+    </td>
+  </tr>
+</table>
+
 
 ### 5.2. Product Category Insights <a name="product-category-insights"></a> <a href="#toc">[↑]</a>
 
