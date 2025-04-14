@@ -14,7 +14,7 @@
 [3. Dataset Overview](#dataset-overview) <br>
 [4. Data Cleaning and Preprocessing](#data-cleaning) <br>
 [5. Insights Deep-Dive](#insights-deep-dive) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[5.1. Key Highlights](#key-highlights) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[5.1. Trends in Quantity, Sales, and Orders ](#key-highlights) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[5.2. Product Category Insights](#product-category-insights) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[5.3. Product-Specific Trends](#product-specific-trends) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[5.4. Geographic Breakdown](#geographic-breakdown) <br>
@@ -72,7 +72,7 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 ## 5. Insights Deep-Dive <a name="insights-deep-dive"></a>  
 <a href="#toc">[ back to contents ]</a>
 
-### 5.1. Key Highlights <a name="key-highlights"></a> <a href="#toc">[↑]</a>
+### 5.1. Trends in Quantity, Sales, and Orders <a name="key-highlights"></a> <a href="#toc">[↑]</a>
 
 <p align="justify"> 
 The KPI dashboard offers a snapshot of overall performance, highlighting a subtle but important shift in Apple’s sales dynamics in 2022. Compared to the previous year, total quantity sold and total orders both declined by 3.2%, yet total sales rose sharply by 29.4%, reaching $163 million, with average sales per transaction climbing 94.1%. This signals a revenue boost driven more by premium pricing than increased unit volume—a trend that may reflect consumer preference for high-end models, but also hints at growing price sensitivity.
