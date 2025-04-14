@@ -69,21 +69,17 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 
 ### 5.1. Key Highlights <a name="key-highlights"></a> <a href="#toc">[↑]</a>
 
-- Total quantity sold decreased from the previous year, yet total sales increased, suggesting a shift toward higher-priced products.
-- In 2021 and 2022, the number of orders matched the quantity sold, indicating that most transactions involved single-item purchases.
+The KPI dashboard offers a snapshot of overall performance, highlighting a subtle but important shift in Apple’s sales dynamics in 2022. Compared to the previous year, total quantity sold and total orders both declined by 3.2%, yet total sales rose sharply by 29.4%, reaching $163 million, with average sales per transaction climbing 94.1%. This signals a revenue boost driven more by premium pricing than increased unit volume—a trend that may reflect consumer preference for high-end models, but also hints at growing price sensitivity.
 <div align="center" style="margin-top: -10px; margin-bottom: 10px;">
   <img src="https://github.com/user-attachments/assets/f5ef8923-e609-465e-baea-03e2b8330fed" width="75%">
 </div>
 
-
-- Only 2020 experienced a quarterly decline in quantity sold, likely due to global disruptions, while all other years showed stable or growing trends.
+This narrative is further supported by time-based trends. A multi-year view of quantity sold by quarter reveals a consistent quarterly increase across most years, except for 2020, which showed a decline—likely influenced by global disruptions. In a closer breakdown of sales performance per year, the data reveals that sales generally scale with higher quantities sold, but 2022 stands out for achieving higher sales despite the lower number of quantity sold from last year. While this surge in revenue is impressive, it underscores a growing reliance on premium pricing—a strategy that may not be sustainable if volume continues to drop
 <div align="center" style="margin-top: -10px; margin-bottom: 10px;">
   <img src="https://github.com/user-attachments/assets/d91e5db1-5722-4290-8795-3bc800cc997e" width="75%">
 </div>
 
-
-- There is a positive correlation between total sales and quantity sold, although revenue growth in some years was driven more by premium pricing (e.g., iPhone 14) than sales volume.
-<div style="margin-top: 10px; margin-bottom: 10px;">
+<div style="margin-top: -10px; margin-bottom: 10px;">
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 1px solid white; padding: 0px 5px 2px 0px;">
@@ -107,8 +103,9 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 
 ### 5.2. Product Category Insights <a name="product-category-insights"></a> <a href="#toc">[↑]</a>
 
-- Smartphones led product category sales in 2019, 2020, and 2022, but dropped to 4th place in 2021, when Airtags topped the charts—selling nearly twice as much as the next best category.
-- Tablets and laptops consistently ranked 2nd and 3rd, with notable gains in laptop sales in 2021 and 2022.
+A closer look at product categories reveals more nuanced consumer shifts. Smartphones were the top-selling category in 2019, 2020, and 2022, but their dominance slipped in 2021 when Airtags unexpectedly topped the charts—selling nearly twice as much as the next best category. This temporary surge demonstrates the strong potential of accessory-led growth, even when core device sales fluctuate.
+
+Tablets and laptops maintained consistent 2nd and 3rd place positions, with laptops showing increased performance in 2021 and 2022. This sustained demand for productivity devices signals an opportunity to further develop non-smartphone segments, while the volatility of Airtag sales suggests that accessory success hinges on timing, utility, and refresh cycles.
 <div align="center" style="margin-top: -10px; margin-bottom: 10px;">
   <img src="https://github.com/user-attachments/assets/0fb2ff90-ed45-4afa-b31c-bad9bb024233" width="40%">
 </div>
@@ -116,9 +113,9 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 
 ### 5.3. Product-Specific Trends <a name="product-specific-trends"></a> <a href="#toc">[↑]</a>
 
-- iPhone 14 (2022) and iPhone Xs (2020) were top-performing models in their respective years.
-- Airtags, which dominated in 2021, saw a sharp drop in 2022, suggesting market saturation or a short-lived demand cycle.
-- For tablets, the iPad 6th Gen (2020) holds the record at 15,000 units sold, followed by the iPad Pro (M2, 11-inch) with 10,000 units in 2022, still below the 2020 peak.
+Top-performing products reinforce the earlier patterns. The iPhone Xs (2020) and iPhone 14 (2022) were standout models, driving substantial revenue despite not breaking quantity records. The iPad 6th Gen in 2020 remains the highest-selling tablet, followed by the iPad Pro (M2) in 2022—which didn’t quite match the earlier peak, suggesting softening interest in newer tablet variants.
+
+Meanwhile, Airtags surged in 2021 but declined sharply the following year, likely due to market saturation or a lack of need for repeat purchases. This shows how accessories can generate momentum but may require strategic updates or bundling to remain relevant. To fully capitalize on their potential, the accessory lineup needs to be refreshed regularly and aligned with customer utility.
 <div align="center" style="margin-top: -10px; margin-bottom: 10px;">
   <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
     <tr>
@@ -143,8 +140,9 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 
 ### 5.4. Geographic Breakdown <a name="geographic-breakdown"></a> <a href="#toc">[↑]</a>
 
-- The United States remained the #1 market across all years, followed by China, Germany, and France.
-- Within the U.S., the cities of Glenade, Brooklyn, and New York recorded the highest unit sales, indicating strong localized demand that could benefit from targeted promotions or supply focus.
+Regionally, the United States consistently emerged as Apple’s top-performing market from 2019 to 2022, followed by China, Germany, and France. Within the U.S., cities such as Glenade, Brooklyn, and New York recorded the highest volume of sales, confirming them as key revenue-generating hubs.
+
+These localized patterns reveal clear opportunities. Instead of relying solely on broad national campaigns, Apple can implement hyper-targeted strategies—focusing marketing, promotions, or event-based outreach in cities where engagement is already high. Strengthening these top-performing zones could create compounding growth effects.
 <div align="center" style="margin-top: -10px; margin-bottom: 10px;">
   <img src="https://github.com/user-attachments/assets/c753746d-089d-484d-aa12-3797ad581b17" width="90%">
 </div>
