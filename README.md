@@ -36,7 +36,7 @@ This project analyzes Apple product sales data from 2019 to 2022, with the prima
 This report presents an analysis of Apple product sales from 2019 to 2022, with a primary focus on quantity sold, complemented by revenue and ordering behavior across time, product categories, and regions. While unit sales showed relative stability over the years, 2022 marked a decline in quantity sold—yet total revenue continued to rise. This contrast highlights Apple’s growing reliance on premium pricing strategies, particularly through high-end models like the iPhone 14. Purchasing patterns also reveal that most customers opted for single-item transactions in 2021 and 2022, suggesting a preference for personal, high-investment purchases rather than bulk buying. </p>
 
 <p align="justify"> 
-Beyond general trends, category-level shifts and geographic performance provide deeper insight. Smartphones remained dominant in most years but briefly lost ground in 2021, when Airtags surged in popularity. Laptops and tablets maintained steady demand, with laptops seeing increased traction in the last two years. On the regional front, the United States led all markets in quantity sold, with cities like Glenade, Brooklyn, and New York emerging as local sales hotspots. These findings suggest clear next steps: introduce more accessible product tiers to retain sales volume, expand the accessory line to capture repeat purchases, and activate localized marketing strategies in high-converting regions.
+Beyond general trends, category-level shifts and geographic performance provide deeper insight. Smartphones remained dominant in most years but briefly lost ground in 2021, when Airtags surged in popularity. Laptops and tablets maintained steady demand, with laptops seeing increased traction in the last two years. On the regional front, the United States led all markets in quantity sold, with cities like Glendale, Brooklyn, and New York emerging as local sales hotspots. These findings suggest clear next steps: introduce more accessible product tiers to retain sales volume, expand the accessory line to capture repeat purchases, and activate localized marketing strategies in high-converting regions.
 </p>
 
 ## 3. Dataset Overview <a name="dataset-overview"></a>  
@@ -154,7 +154,7 @@ Meanwhile, Airtags surged in 2021 but declined sharply the following year, likel
 ### 5.4. Geographic Breakdown <a name="geographic-breakdown"></a> <a href="#toc">[↑]</a>
 
 <p align="justify"> 
-Regionally, the United States consistently emerged as Apple’s top-performing market from 2019 to 2022, followed by China, Germany, and France. Within the U.S., cities such as Glenade, Brooklyn, and New York recorded the highest volume of sales, confirming them as key revenue-generating hubs. </p>
+Regionally, the United States consistently emerged as Apple’s top-performing market from 2019 to 2022, followed by China, Germany, and France. Within the U.S., cities such as Glendale, Brooklyn, and New York recorded the highest volume of sales, confirming them as key revenue-generating hubs. </p>
 
 <p align="justify"> 
 These localized patterns reveal clear opportunities. Instead of relying solely on broad national campaigns, Apple can implement hyper-targeted strategies—focusing marketing, promotions, or event-based outreach in cities where engagement is already high. Strengthening these top-performing zones could create compounding growth effects. </p>
@@ -173,4 +173,4 @@ These localized patterns reveal clear opportunities. Instead of relying solely o
   Build on the momentum shown by Airtags in 2021 by releasing new accessories with strong utility or lifestyle appeal. Offer curated bundles or limited-edition drops to drive repeat purchases and complement mainline product sales. </p>
 
 - <p align="justify"> <strong>Deploy Localized Campaigns in High-Performing Markets.</strong> 
-  Reinforce Apple’s presence in top-performing U.S. cities like Glenade, Brooklyn, and New York by investing in geo-targeted marketing, exclusive regional offers, or experiential events to maximize impact where demand is already proven. </p>
+  Reinforce Apple’s presence in top-performing U.S. cities like Glendale, Brooklyn, and New York by investing in geo-targeted marketing, exclusive regional offers, or experiential events to maximize impact where demand is already proven. </p>
