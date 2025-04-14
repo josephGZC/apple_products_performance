@@ -1,5 +1,6 @@
-# Apple Products Perfomance Analysis
+<link rel="icon" href="https://github.com/josephGZC/airbnb_revenue_analysis/blob/8b8f686ecec368e46d7b50e0d04e16a758e68cec/barong_dp_circle_airbnb.ico" type="image/x-icon">
 
+# Apple Products Perfomance Analysis
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d9d9308c-8421-4fd8-b460-5200d29014e3" width="100%">
