@@ -1,4 +1,4 @@
-<link rel="icon" href="https://github.com/josephGZC/airbnb_revenue_analysis/blob/8b8f686ecec368e46d7b50e0d04e16a758e68cec/barong_dp_circle_airbnb.ico" type="image/x-icon">
+<link rel="icon" href="https://github.com/josephGZC/apple_products_performance/blob/59858f9a33bac34b62befa14501862404de62f61/im_apple.ico" type="image/x-icon">
 
 # Apple Products Perfomance Analysis
 
