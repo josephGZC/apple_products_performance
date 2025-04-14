@@ -152,10 +152,10 @@ These localized patterns reveal clear opportunities. Instead of relying solely o
 <a href="#toc">[ back to contents ]</a>
 
 - **Introduce More Accessible Product Tiers**
-Address the dip in quantity sold by launching mid-range alternatives to flagship models or enhancing trade-in and financing options. This ensures broader reach without diluting brand value, especially in price-sensitive markets.
+  Address the dip in quantity sold by launching mid-range alternatives to flagship models or enhancing trade-in and financing options. This ensures broader reach without diluting brand value, especially in price-sensitive markets.
 
 - **Expand and Strategically Refresh Accessory Lines**
-Build on the momentum shown by Airtags in 2021 by releasing new accessories with strong utility or lifestyle appeal. Offer curated bundles or limited-edition drops to drive repeat purchases and complement mainline product sales.
+  Build on the momentum shown by Airtags in 2021 by releasing new accessories with strong utility or lifestyle appeal. Offer curated bundles or limited-edition drops to drive repeat purchases and complement mainline product sales.
 
 - **Deploy Localized Campaigns in High-Performing Markets**
-Reinforce Apple’s presence in top-performing U.S. cities like Glenade, Brooklyn, and New York by investing in geo-targeted marketing, exclusive regional offers, or experiential events to maximize impact where demand is already proven.
+  Reinforce Apple’s presence in top-performing U.S. cities like Glenade, Brooklyn, and New York by investing in geo-targeted marketing, exclusive regional offers, or experiential events to maximize impact where demand is already proven.
