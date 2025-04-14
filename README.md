@@ -84,11 +84,11 @@ The KPI dashboard offers a snapshot of overall performance, highlighting a subtl
 <p align="justify"> 
 This narrative is further supported by time-based trends. A multi-year view of quantity sold by quarter reveals a consistent quarterly increase across most years, except for 2020, which showed a decline—likely influenced by global disruptions. In a closer breakdown of sales performance per year, the data reveals that sales generally scale with higher quantities sold, but 2022 stands out for achieving higher sales despite the lower number of quantity sold from last year. While this surge in revenue is impressive, it underscores a growing reliance on premium pricing—a strategy that may not be sustainable if volume continues to drop.
 </p>
-<div align="center" style="margin-top: -10px; margin-bottom: 15px;">
+<div align="center" style="margin-top: -10px; margin-bottom: 20px;">
   <img src="https://github.com/user-attachments/assets/d91e5db1-5722-4290-8795-3bc800cc997e" width="75%">
 </div>
 
-<div style="margin-top: -10px; margin-bottom: 10px;">
+<div style="margin-top: -10px; margin-bottom: 20px;">
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 1px solid white; padding: 0px 5px 2px 0px;">
@@ -117,7 +117,7 @@ A closer look at product categories reveals more nuanced consumer shifts. Smartp
 
 <p align="justify"> 
 Tablets and laptops maintained consistent 2nd and 3rd place positions, with laptops showing increased performance in 2021 and 2022. This sustained demand for productivity devices signals an opportunity to further develop non-smartphone segments, while the volatility of Airtag sales suggests that accessory success hinges on timing, utility, and refresh cycles. </p>
-<div align="center" style="margin-top: -10px; margin-bottom: 10px;">
+<div align="center" style="margin-top: -10px; margin-bottom: 20px;">
   <img src="https://github.com/user-attachments/assets/0fb2ff90-ed45-4afa-b31c-bad9bb024233" width="40%">
 </div>
 
@@ -129,7 +129,7 @@ Top-performing products reinforce the earlier patterns. The iPhone Xs (2020) and
 
 <p align="justify"> 
 Meanwhile, Airtags surged in 2021 but declined sharply the following year, likely due to market saturation or a lack of need for repeat purchases. This shows how accessories can generate momentum but may require strategic updates or bundling to remain relevant. To fully capitalize on their potential, the accessory lineup needs to be refreshed regularly and aligned with customer utility. </p>
-<div align="center" style="margin-top: -10px; margin-bottom: 10px;">
+<div align="center" style="margin-top: -10px; margin-bottom: 20px;">
   <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
     <tr>
       <td style="border: 1px solid white; padding: 5px;">
@@ -158,7 +158,7 @@ Regionally, the United States consistently emerged as Apple’s top-performing m
 
 <p align="justify"> 
 These localized patterns reveal clear opportunities. Instead of relying solely on broad national campaigns, Apple can implement hyper-targeted strategies—focusing marketing, promotions, or event-based outreach in cities where engagement is already high. Strengthening these top-performing zones could create compounding growth effects. </p>
-<div align="center" style="margin-top: -10px; margin-bottom: 10px;">
+<div align="center" style="margin-top: -10px; margin-bottom: 20px;">
   <img src="https://github.com/user-attachments/assets/c753746d-089d-484d-aa12-3797ad581b17" width="90%">
 </div>
 
