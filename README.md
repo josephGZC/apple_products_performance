@@ -75,7 +75,7 @@ The KPI dashboard offers a snapshot of overall performance, highlighting a subtl
 </div>
 
 This narrative is further supported by time-based trends. A multi-year view of quantity sold by quarter reveals a consistent quarterly increase across most years, except for 2020, which showed a decline—likely influenced by global disruptions. In a closer breakdown of sales performance per year, the data reveals that sales generally scale with higher quantities sold, but 2022 stands out for achieving higher sales despite the lower number of quantity sold from last year. While this surge in revenue is impressive, it underscores a growing reliance on premium pricing—a strategy that may not be sustainable if volume continues to drop
-<div align="center" style="margin-top: -10px; margin-bottom: 10px;">
+<div align="center" style="margin-top: -10px; margin-bottom: 15px;">
   <img src="https://github.com/user-attachments/assets/d91e5db1-5722-4290-8795-3bc800cc997e" width="75%">
 </div>
 
