@@ -25,16 +25,14 @@
 ## 1. Project Background <a name="project-background"></a>  
 <a href="#toc">[ back to contents ]</a>
 
-This project analyzes Apple product sales data from 2019 to 2022, with the primary objective of understanding trends in quantity sold across time, product categories, and regions. Using SQL for data extraction and Power BI for dashboard development, the goal was to uncover patterns that inform strategic pricing, product focus, and regional marketing efforts.
-
+This project analyzes Apple product sales data from 2019 to 2022, with the primary objective of understanding trends in quantity sold across time, product categories, and geographic regions. SQL was used for data extraction, cleaning, and transformation, while Power BI served as the visualization tool for deriving insights and presenting trends. The goal is to uncover actionable patterns that can guide strategic pricing, product positioning, and region-specific marketing.
 
 ## 2. Executive Summary <a name="executive-summary"></a>  
 <a href="#toc">[ back to contents ]</a>
 
-This report presents an analysis of Apple product sales over four years, focusing on quantity sold as the primary metric, while also exploring supporting sales and order data across time, products, and geographies.
+This report presents an analysis of Apple product sales from 2019 to 2022, with a primary focus on quantity sold, complemented by revenue and ordering behavior across time, product categories, and regions. While unit sales showed relative stability over the years, 2022 marked a decline in quantity sold—yet total revenue continued to rise. This contrast highlights Apple’s growing reliance on premium pricing strategies, particularly through high-end models like the iPhone 14. Purchasing patterns also reveal that most customers opted for single-item transactions in 2021 and 2022, suggesting a preference for personal, high-investment purchases rather than bulk buying.
 
-Key findings reveal that while total quantity sold decreased, total revenue continued to grow, driven largely by premium-priced models like the iPhone 14. Most orders involved single-item purchases, and product category performance shifted, with accessories like Airtags briefly outperforming smartphones. Geographically, the United States dominated sales, particularly in cities like Glenade, Brooklyn, and New York.
-
+Beyond general trends, category-level shifts and geographic performance provide deeper insight. Smartphones remained dominant in most years but briefly lost ground in 2021, when Airtags surged in popularity. Laptops and tablets maintained steady demand, with laptops seeing increased traction in the last two years. On the regional front, the United States led all markets in quantity sold, with cities like Glenade, Brooklyn, and New York emerging as local sales hotspots. These findings suggest clear next steps: introduce more accessible product tiers to retain sales volume, expand the accessory line to capture repeat purchases, and activate localized marketing strategies in high-converting regions.
 
 ## 3. Dataset Overview <a name="dataset-overview"></a>  
 <a href="#toc">[ back to contents ]</a>
@@ -155,11 +153,11 @@ SQL was used to validate, clean, and standardize all datasets before analysis an
 ## 6. Recommendations <a name="recommendations"></a> 
 <a href="#toc">[ back to contents ]</a>
 
-- **Balance Premium Pricing with Demand Sensitivity**  
-  While high-end models like the iPhone 14 have driven strong revenue, the lower quantity sold may indicate price resistance. Future strategies should weigh profit margins against market demand, potentially introducing more mid-tier options or trade-in incentives to retain sales volume.
+- **Introduce More Accessible Product Tiers**
+Address the dip in quantity sold by launching mid-range alternatives to flagship models or enhancing trade-in and financing options. This ensures broader reach without diluting brand value, especially in price-sensitive markets.
 
-- **Expand Accessory Product Lines**  
-  The 2021 performance of Airtags highlights the potential for accessory-led growth. Apple could explore bundling strategies, new utility-based accessories, or seasonal launches to sustain engagement in this space.
+- **Expand and Strategically Refresh Accessory Lines**
+Build on the momentum shown by Airtags in 2021 by releasing new accessories with strong utility or lifestyle appeal. Offer curated bundles or limited-edition drops to drive repeat purchases and complement mainline product sales.
 
-- **Target High-Performing Regions**  
-  With cities like Glenade, Brooklyn, and New York leading in unit sales, Apple can benefit from localized marketing, event-based promotions, or exclusive regional offers to deepen presence in these high-conversion zones.
+- **Deploy Localized Campaigns in High-Performing Markets**
+Reinforce Apple’s presence in top-performing U.S. cities like Glenade, Brooklyn, and New York by investing in geo-targeted marketing, exclusive regional offers, or experiential events to maximize impact where demand is already proven.
