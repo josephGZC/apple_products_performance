@@ -1,5 +1,3 @@
-<link rel="icon" href="https://github.com/josephGZC/apple_products_performance/blob/59858f9a33bac34b62befa14501862404de62f61/im_apple.ico" type="image/x-icon">
-
 # Apple Products Perfomance Analysis
 
 <div align="center">
